@@ -16,7 +16,7 @@
 
 🏆 Participated in **ECPC** (Egyptian Collegiate Programming Contest)
 
-🌍 Arabic (native) · English (B1–B2) · French (beginner)
+🌍 Arabic (native) · English · French 
 
 📍 Giza, Egypt
 

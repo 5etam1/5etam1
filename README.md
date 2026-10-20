@@ -4,51 +4,31 @@
 
 **Computer Science Student | Artificial Intelligence | Aspiring AI Engineer**
 
-</div>
+[📄 View Resume](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/Khetam_CV.pdf) · [📧 Email](mailto:khetam.masrany@gmail.com)
 
----
+</div>
 
 ## About Me
 
-🎓 B.Sc. in Computer Science (**Artificial Intelligence track**), **Nile University**, Egypt (2022 – 2026)
-
-🎯 Looking for **AI Engineer** roles, and open to **Research Assistant** / **Teaching Assistant** positions
-
-🏆 Participated in **ECPC** (Egyptian Collegiate Programming Contest)
-
-🌍 Arabic (native) · English · French 
-
+🎓 B.Sc. Computer Science (AI track), **Nile University**, Egypt (2022 – 2026)
+🎯 Looking for **AI Engineer** roles, open to **Research / Teaching Assistant** positions
+🏆 Participated in **ECPC** programming competition
+🌍 Arabic (native) · English (B1–B2) · French (beginner)
 📍 Giza, Egypt
 
-📧 khetam.masrany@gmail.com
+## 🔍 Interests
 
----
-
-## 🔍 What I'm Interested In
-
-- 🤖 **Machine Learning & Deep Learning**: building models that learn from data
-- 👁️ **Computer Vision & NLP**: teaching machines to understand images and language
-- 📊 **Data Analysis**: turning raw data into useful insights
-- 🧩 **Problem Solving & Algorithms**: sharpened through competitive programming
-- 📚 **Research & Teaching**: sharing knowledge and learning from others
-
----
+Machine Learning · Deep Learning · Computer Vision · NLP · Data Analysis · Algorithms
 
 ## ⚙️ Skills & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,numpy,pandas,sklearn" alt="skills" />
-</p>
-
-**Core strengths:** Python programming · Data structures & algorithms · Machine learning fundamentals · Problem solving · Teamwork · Fast learning
-
----
+<img src="https://skillicons.dev/icons?i=python,git,github,numpy,pandas,sklearn" alt="skills" />
 
 ## 🚀 Projects
 
-My work is available in my pinned repositories and in my repositories list. More projects are on the way! 🌱
-
----
+| Project | What it does | Tech |
+|---|---|---|
+| [Project Name](https://github.com/YOUR_USERNAME/REPO_NAME) | One sentence about what it does and the result | Python |
 
 ## 📊 GitHub Stats
 
@@ -56,14 +36,9 @@ My work is available in my pinned repositories and in my repositories list. More
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default)
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=default)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=default)
-
 </div>
 
----
-
-## 📫 Connect with me!
+## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khetam.masrany@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)

@@ -1,90 +1,87 @@
-# Hi! I'm Khetam Almasrany 👋
+# 👋 Hi, I'm Khetam Almasrany
 
-### AI Engineer | Generative AI & LLMs | AI Agents | NLP & Speech AI | Computer Vision | MLOps
+### AI Engineer · Generative AI · Machine Learning
 
-[📄 View My Resume](https://github.com/5etam1/5etam1/blob/main/Khetam_Mohamed_AI_Engineer_CVu.pdf) · [📧 Email Me](mailto:khetam.masrany@gmail.com) · [💻 GitHub](https://github.com/5etam1)
+[📄 View My Resume](https://github.com/5etam1/5etam1/blob/main/Khetam_Mohamed_AI_Engineer_CVu.pdf) · [💻 GitHub](https://github.com/5etam1)
 
 ---
 
-## 👩🏻‍💻 About Me
+## ✦ About Me
 
-🎓 **B.Sc. in Computer Science & Artificial Intelligence** — Nile University, Egypt
+🎓 **Computer Science & Artificial Intelligence Graduate**  
+Nile University, Egypt
 
-🤖 Interested in building intelligent applications powered by Generative AI, LLMs, and agentic systems.
+🤖 Interested in Generative AI, LLMs, and AI Agents.
 
-🗣️ Exploring Arabic NLP, Speech AI, and voice-based interactive applications.
+🗣️ Exploring Arabic NLP, Speech AI, and voice-enabled applications.
 
-🧠 Developing machine learning and deep learning solutions for practical problems.
+🧠 Building machine learning and computer vision solutions.
 
-⚙️ Interested in MLOps, experiment tracking, and reproducible machine learning pipelines.
+⚙️ Interested in MLOps, experiment tracking, and reproducible ML pipelines.
 
-🌱 Always learning, experimenting, and turning ideas into working AI solutions.
+---
 
-## ⚙️ Skills & Tools
+## ✦ Tech Stack
 
-**Programming & Data:** Python, SQL, NumPy, Pandas
+**Languages & Data**
 
-**Machine Learning:** Scikit-learn, Deep Learning, Model Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Generative AI:** LLMs, RAG, AI Agents, LangChain, LangGraph
+**AI & Generative AI**
 
-**NLP & Speech AI:** Arabic NLP, Speech-to-Text, Text-to-Speech, Speech-to-Speech
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7057FF?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-8B78E6?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5267B8?style=flat-square)
 
-**Computer Vision:** Image Classification, Image Segmentation, CNNs
+**Tools & MLOps**
 
-**MLOps & Tools:** MLflow, DVC, DagsHub, Docker, Git, GitHub
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 My Projects Overview
+---
 
-### 🤖 Generative AI & Agentic Systems
+## ✦ Featured Projects
 
-**Basira — Voice-First Multi-Agent Tutor**
+### 🤖 01. Basira — Voice-First Multi-Agent Tutor
 
-An Arabic voice-first tutoring application exploring multi-agent AI and interactive learning experiences.
+An Arabic voice-first tutoring application focused on interactive learning and multi-agent AI.
 
-🔗 [Explore the project](https://github.com/zeinaaahmedd/Voice-First-Multi-Agent-Tutor)
+[🔗 Explore Repository](https://github.com/zeinaaahmedd/Voice-First-Multi-Agent-Tutor)
 
-### 🗣️ NLP & Speech AI
-
-Exploring Arabic language technologies, speech processing, and voice-enabled AI applications, with an interest in Egyptian Arabic speech systems.
-
-### 🧠 Computer Vision & Healthcare AI
-
-**Breast Cancer Detection & Medical Image Analysis**
+### 🩺 02. Breast Cancer Detection
 
 Deep learning approaches for breast ultrasound image classification and segmentation.
 
-🔗 [Explore the project](https://github.com/bubbup/Breast-cancer-detection-many-approaches)
+[🔗 Explore Repository](https://github.com/bubbup/Breast-cancer-detection-many-approaches)
 
-### ⚙️ Machine Learning & MLOps
+### ⚙️ 03. Telco Customer Churn Prediction
 
-**Telco Customer Churn Prediction**
-
-An end-to-end machine learning pipeline for customer churn prediction, experiment tracking, and reproducible model development.
+An end-to-end machine learning pipeline featuring model evaluation, experiment tracking, and reproducible workflows.
 
 **Tools:** Python · DVC · MLflow · DagsHub
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
+## ✦ GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5etam1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5etam1&layout=compact&theme=tokyonight&hide_border=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5etam1&theme=tokyonight)
+---
 
-</div>
-
-## 🤝 Connect With Me
+## ✦ Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-5etam1-181717?style=for-the-badge&logo=github)](https://github.com/5etam1)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khetam.masrany@gmail.com)
+
+[![Resume](https://img.shields.io/badge/View_My_Resume-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/5etam1/5etam1/blob/main/Khetam_Mohamed_AI_Engineer_CVu.pdf)
 
 ---
 
-<div align="center">
-
-*Building intelligent solutions through AI, one project at a time.* ✨
-
-</div>
+<p align="center">
+  <i>Building intelligent solutions, one project at a time. ✨</i>
+</p>

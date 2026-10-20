@@ -13,7 +13,7 @@
 🎓 B.Sc. Computer Science (AI track), **Nile University**, Egypt (2022 – 2026)  
 🎯 Looking for **AI Engineer** roles, open to **Research / Teaching Assistant** positions  
 🏆 Participated in **ECPC** programming competition  
-🌍 Arabic (native) · English (B1–B2) · French (beginner)  
+🌍 Arabic (native) · English  · French 
 📍 Giza, Egypt
 
 ## 🔍 Interests
@@ -24,9 +24,6 @@ Machine Learning · Deep Learning · Computer Vision · NLP · Data Analysis · 
 
 <img src="https://skillicons.dev/icons?i=python,git,github,numpy,pandas,sklearn" alt="skills" />
 
-## 🚀 Projects
-
-More projects coming soon 🌱
 
 ## 📊 GitHub Stats
 

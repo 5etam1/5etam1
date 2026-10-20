@@ -123,9 +123,9 @@ I'm always happy to connect with AI professionals, exchange ideas, and explore n
   <a href="https://github.com/5etam1">
     <img src="https://img.shields.io/badge/GitHub-5etam1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khetam-almasrany-2197a5300/?isSelfProfile=true)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/khetam-almaslany-2197a5300/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 ---
